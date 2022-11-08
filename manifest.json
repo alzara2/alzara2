@@ -1,9 +1,9 @@
 {
- "background_color": "#FFFFFF",
  "name": "Alzara - Departamento 2",
  "description": "Un complejo seguro y accesible, de ubicación privilegiada que ofrece amplios espacios pensados exclusivamente para que disfrutes del hogar de tus sueños.",
  "display": "fullscreen",
- "theme_color": "#FFFFFF",
+ "background_color": "#FFFFFF",
+ "start_url": "index.htm",
  "icons": [
   {
    "type": "image/png",
@@ -41,5 +41,5 @@
    "src": "misc/icon64.png"
   }
  ],
- "start_url": "index.htm"
+ "theme_color": "#FFFFFF"
 }
