@@ -49,10 +49,10 @@ HotspotPanoramaOverlayTextImage_4B20D94B_5965_F206_41D4_5E2F7A198ABB.text = Vest
 ### Floorplan
 
 ### Image
-imlevel_48871F76_5A7F_F350_41C1_BA67916064E7.url = media/map_4A8C91B4_5966_3203_41D3_4D530567DD23_es-PY_0.png
-imlevel_48873F76_5A7F_F350_41B7_E6CF55ACD11A.url = media/map_4A8C91B4_5966_3203_41D3_4D530567DD23_es-PY_1.png
-imlevel_48875F76_5A7F_F350_41D0_5465DEB3CECE.url = media/map_4A8C91B4_5966_3203_41D3_4D530567DD23_es-PY_2.png
-imlevel_48876F76_5A7F_F350_41D3_03D96F75D0D0.url = media/map_4A8C91B4_5966_3203_41D3_4D530567DD23_es-PY_3.png
+imlevel_76CD5BD0_637F_0F6B_41CC_52E2C7D02C4E.url = media/map_4A8C91B4_5966_3203_41D3_4D530567DD23_es-PY_0.png
+imlevel_76CD7BD1_637F_0F6D_41C2_98C3441EBFD4.url = media/map_4A8C91B4_5966_3203_41D3_4D530567DD23_es-PY_1.png
+imlevel_76CA8BD1_637F_0F6D_41D8_C843EB62EE01.url = media/map_4A8C91B4_5966_3203_41D3_4D530567DD23_es-PY_2.png
+imlevel_76CA9BD1_637F_0F6D_41D0_F9DFC559E586.url = media/map_4A8C91B4_5966_3203_41D3_4D530567DD23_es-PY_3.png
 imlevel_49FFF244_5A7E_6CB0_41D1_235BAB56AED0.url = media/panorama_4900A455_5926_7202_41D0_67CED5B0A02E_HS_0aplztz3_es-PY.png
 imlevel_49DAA275_5A7E_6D50_41C3_0D138DA45D4F.url = media/panorama_4900A455_5926_7202_41D0_67CED5B0A02E_HS_52ib0sz2_es-PY.png
 imlevel_49A4D396_5A7E_73D1_41B0_8FFB3B427C50.url = media/panorama_4900A455_5926_7202_41D0_67CED5B0A02E_HS_7iqkkoof_es-PY.png
@@ -92,14 +92,14 @@ imlevel_4850984F_5A7E_7D4F_41A1_6E0E51925F0E.url = media/popup_4D4E0EFA_596E_2E0
 
 ### Title
 map_4A8C91B4_5966_3203_41D3_4D530567DD23.label = 60m2
-panorama_4900A455_5926_7202_41D0_67CED5B0A02E.label = Departamento 2 - Toma 1
-panorama_52F37338_5922_1603_41C2_8DC354F667B5.label = Departamento 2 - Toma 2
-panorama_52F1225B_5922_7605_41D4_83511510E814.label = Departamento 2 - Toma 3
-panorama_52F1116E_5922_121E_41B9_4D66F8CD2D98.label = Departamento 2 - Toma 4
-panorama_4B17A7D6_5962_1E0E_41C9_9FAED45DDAE3.label = Departamento 2 - Toma 5
-panorama_52F1F050_5922_1203_419C_EAEE6767F424.label = Departamento 2 - Toma 6
-panorama_52F1F04D_5922_F21D_41C4_48F743A7F419.label = Departamento 2 - Toma 7
-panorama_52F1AFDF_5922_EE3D_41B5_72C6F735CFCC.label = Departamento 2 - Toma 8
+panorama_52F1225B_5922_7605_41D4_83511510E814.label = Balcón - Qunicho
+panorama_52F1F050_5922_1203_419C_EAEE6767F424.label = Baño - Hab. Principal
+panorama_4900A455_5926_7202_41D0_67CED5B0A02E.label = Cocina
+panorama_52F1116E_5922_121E_41B9_4D66F8CD2D98.label = Habitación Principal
+panorama_52F1F04D_5922_F21D_41C4_48F743A7F419.label = Habitación Secundaria
+panorama_52F1AFDF_5922_EE3D_41B5_72C6F735CFCC.label = Habitación Terciaria
+panorama_52F37338_5922_1603_41C2_8DC354F667B5.label = Living - Comedor
+panorama_4B17A7D6_5962_1E0E_41C9_9FAED45DDAE3.label = Vestidor - Hab. Principal
 
 ## Skin
 
@@ -143,4 +143,4 @@ HTMLText_DB7C3067_C984_AD43_41E1_CCB9D7B994A2.html = <div style="text-align:left
 tour.description = Un complejo seguro y accesible, de ubicación privilegiada que ofrece amplios espacios pensados exclusivamente para que disfrutes del hogar de tus sueños.
 
 ### Title
-tour.name = Alzara - Departamento 2
+tour.name = Alzara - 3 Hab. - 294 m²
